@@ -1,12 +1,18 @@
-@import "_normalize.css";
-@import "_fonts.css";
-@import "_variables.css";
-@import "_global.css";
+@import url(../css/_normalize.css);
+@import url(../css/_fonts.css);
+@import url(../css/_variables.css);
+@import url(../css/_global.css);
 
 /* component import*/
-@import "components/_header.css";
-@import "components/_hero.css";
-@import "components/_favorite.css";
-@import "components/_about.css";
-@import "components/_mobile-app.css";
-@import "components/_contacts.css";
+@import url(../css/components/_header.css);
+@import url(../css/components/_hero.css);
+@import url(../css/components/_favorite.css);
+@import url(../css/components/_about.css);
+@import url(../css/components/_mobile-app.css);
+@import url(../css/components/_contacts.css);
+/* @import "components/_header.css"; */
+/* 
+
+
+
+@import "components/_contacts.css"; */
