@@ -1,0 +1,81 @@
+.contacts {
+  width: inherit;
+  padding: 40px;
+}
+.contacts__container {
+  width: 1360px;
+  height: 525px;
+  display: flex;
+  margin-top: 160px;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+  align-self: stretch;
+  border-radius: 40px;
+  background-color: var(--darkTaupe);
+}
+.contacts__offer {
+  width: 530px;
+  height: 325px;
+}
+
+.contacts__offer-tittel {
+  color: var(--light-beige);
+  font-family: "Inter";
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 125%;
+  margin-top: -3px;
+}
+.contacts__offer-tittel-italic {
+  color: var(--tan-brown);
+  font-style: italic;
+}
+.contacts__offer-social {
+  width: 204px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding-top: 2px;
+}
+.twitter-img .instagram-img .facebook-img {
+  color: var(--light-beige);
+}
+.contacts__info {
+  width: 530px;
+  height: 186px;
+}
+.contact__info-tittle {
+  margin-top: -1px;
+  padding-bottom: 20px;
+  align-self: stretch;
+  color: var(--light-beige);
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 125%;
+}
+.contacts__info-contact {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.contacts__info-contact-items {
+  text-decoration: none;
+  color: var(--light-beige);
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%;
+  display: inline-block;
+}
+.contact-icon {
+  padding-right: 7px;
+}

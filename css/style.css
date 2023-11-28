@@ -1,0 +1,12 @@
+@import "_normalize.css";
+@import "_fonts.css";
+@import "_variables.css";
+@import "_global.css";
+
+/* component import*/
+@import "components/_header.css";
+@import "components/_hero.css";
+@import "components/_favorite.css";
+@import "components/_about.css";
+@import "components/_mobile-app.css";
+@import "components/_contacts.css";
