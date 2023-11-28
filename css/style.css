@@ -1,15 +1,15 @@
-@import url(../css/_normalize.css);
-@import url(../css/_fonts.css);
-@import url(../css/_variables.css);
-@import url(../css/_global.css);
+@import url(../css/normalize.css);
+@import url(../css/fonts.css);
+@import url(../css/variables.css);
+@import url(../css/global.css);
 
 /* component import*/
-@import url(../css/components/_header.css);
-@import url(../css/components/_hero.css);
-@import url(../css/components/_favorite.css);
-@import url(../css/components/_about.css);
-@import url(../css/components/_mobile-app.css);
-@import url(../css/components/_contacts.css);
+@import url(../css/components/header.css);
+@import url(../css/components/hero.css);
+@import url(../css/components/favorite.css);
+@import url(../css/components/about.css);
+@import url(../css/components/mobile-app.css);
+@import url(../css/components/contacts.css);
 /* @import "components/_header.css"; */
 /* 
 
